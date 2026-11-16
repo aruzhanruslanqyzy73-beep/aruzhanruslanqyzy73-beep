@@ -33,3 +33,22 @@ GitHub: aruzhanruslanqyzy73-beep
 ![GitHub Streak](https://streak-stats.demolab.com?user=aruzhanruslanqyzy73-beep&theme=tokyonight)
 
 ---
+
+## 🌐 Менің мақсаттарым
+
+- 🚀 Өз портфолиомды дамыту
+- 💻 Жаңа веб-жобалар жасау
+- 📚 Бағдарламалау білімімді жетілдіру
+- 🤝 Командалық жобаларға қатысу
+
+## ✨ Қызығушылықтарым
+
+- Web Development
+- UI/UX Design
+- Artificial Intelligence
+- Programming
+
+---
+
+**Рақмет! Менің GitHub парақшама қош келдіңіз! 💜**
+
