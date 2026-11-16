@@ -21,3 +21,15 @@
 GitHub: aruzhanruslanqyzy73-beep
 
 ⭐ Профиліме қош келдіңіз!
+
+---
+
+## 📊 GitHub статистикасы
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aruzhanruslanqyzy73-beep&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aruzhanruslanqyzy73-beep&theme=tokyonight)
+
+---
